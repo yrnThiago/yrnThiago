@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yrnThiago
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Flask, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
