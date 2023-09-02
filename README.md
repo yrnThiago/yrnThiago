@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
   <h1>
   <img alt="me" src="https://cdn.discordapp.com/avatars/244933465634504712/16ddc2f5134e5b9a00c47ca9058d0159.webp?size=64">
-    Olá, mundo! Eu sou o Thiago Ribeiro!
+    Hello World, I'm Thiago Ribeiro!
     </h1>
 </div>
 
